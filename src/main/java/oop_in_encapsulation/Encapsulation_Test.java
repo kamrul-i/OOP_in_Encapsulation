@@ -1,5 +1,4 @@
 package oop_in_encapsulation;
-
 public class Encapsulation_Test {
 
     public static void main(String[] args) {
@@ -9,5 +8,4 @@ public class Encapsulation_Test {
         p1.age = 32;
         p1.display();
     }
-
 }
